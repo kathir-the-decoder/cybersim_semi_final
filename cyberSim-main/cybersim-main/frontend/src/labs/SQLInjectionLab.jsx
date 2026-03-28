@@ -215,7 +215,7 @@ export default function SQLInjectionLab({ onClose }) {
                 Login
               </button>
             </form>
-            <p className="login-hint">Try: <code>' OR 1=1--</code> in the username field</p>
+
           </div>
 
           {/* Flag submit — only shown after flag is captured */}
